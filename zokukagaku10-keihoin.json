@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keihoin",
  "yomi": "けいほういんいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "未詳",
+  "author": "柳原安子（桂芳院）",
+  "desc": "桂芳院柳原安子の遺詠の抄。四季・懐旧などの歌を収め、熊谷直好と贈り答えた歌も見える。"
+ },
  "editions": [
   {
    "pid": "993388",
